@@ -26,7 +26,4 @@ Clone the repository and install dependencies:
 git clone https://github.com/your-username/github-user-search.git
 cd github-user-search
 npm install
-npm start"# git-search" 
-"# git-search" 
-"# git-search" 
-"# git-search" 
+npm start
