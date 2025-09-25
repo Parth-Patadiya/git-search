@@ -23,7 +23,6 @@ Includes filtering, sorting, and a clean UI built with Tailwind CSS.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/github-user-search.git
-cd github-user-search
+cd github-search
 npm install
 npm start
